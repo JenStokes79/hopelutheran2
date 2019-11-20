@@ -1,17 +1,26 @@
 .parallax img {
- 
     width: 100%;
    
 }
 
-h3, p {
+h3, p, nav .brand-logo {
     font-family: 'Cinzel', serif;
     color:darkslategrey;
     text-align: center;
 }
 
-.coupleimage {
-    text-align: center;
+/* opacity to parallax images */
+.parallaximg {
+    opacity: .8;
+}
 
+/* backgraound to navbar */
+.nav-wrapper {
+    background-color: white;
+ 
+}
 
-
+/* color of hamburger collapse */
+nav .sidenav-trigger i {
+    color: darkslategray;
+}
