@@ -3,7 +3,7 @@
    
 }
 
-h3, p, nav .brand-logo {
+h3, h5, p, nav .brand-logo {
     font-family: 'Cinzel', serif;
     color:darkslategrey;
     text-align: center;
@@ -23,4 +23,24 @@ h3, p, nav .brand-logo {
 /* color of hamburger collapse */
 nav .sidenav-trigger i {
     color: darkslategray;
+}
+
+footer.pager-footer {
+    background-color: white;
+}
+
+.fb {
+   height: 50px;
+   width: 50px;
+ justify-content: center;
+}
+
+.copyright {
+    text-align: center;
+    color: slategray;
+}
+
+.connect {
+    color: slategray;
+
 }
