@@ -8,6 +8,10 @@ h3, h5, p, nav .brand-logo {
     color:darkslategrey;
     text-align: center;
 }
+i {
+    font-size: 18px;
+    text-align: center;
+}
 
 /* opacity to parallax images */
 .parallaximg {
